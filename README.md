@@ -1,4 +1,4 @@
-<img align="left" width="180" src="https://raw.githubusercontent.com/anugithuberit/anugithuberit/main/profile.jpg" />
+<img align="left" width="180" src="https://avatars.githubusercontent.com/u/181657181?s=400&u=60246aa02db01f926be99c6fe09d3974a54d2a8b&v=4" />
 
 <h1>Hi 👋, I'm Petchiammal Murugan</h1>
 <h3>Frontend Developer | Computer Science Engineering Student</h3>
