@@ -1,13 +1,15 @@
-<img align="left" width="170" src="https://avatars.githubusercontent.com/u/181657181?s=400&u=60246aa02db01f926be99c6fe09d3974a54d2a8b&v=4" />
 
-<h1>PETCHIAMMAL MURUGAN</h1>
-<p><i>she/her</i></p>
 
-👋 Hi, I’m <b>Petchiammal Murugan</b>! 🎓 <b>3rd-year Computer Science student</b> exploring 
-<b>DSA, System Design, and Frontend Development</b>. 💻 Building cool projects!
+## 👋 Hey there! I'm Petchiammal Murugan
+
+<i>she/her</i>
+
+🎓 **3rd-year Computer Science student** exploring **DSA, System Design, and Frontend Development**  
+💻 Building cool projects!
 
 <br/>
 <br/>
+
 
 
 ---
