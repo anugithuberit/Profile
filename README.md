@@ -33,7 +33,7 @@ I’m a **Computer Science Engineering student (2027)** with a strong interest i
   **CGPA: 8.36**
 
 - **HSC – 91.15%**  
-  St. John’s Hr. Secondary School (2023)
+  St. John’s Metric Hr. Secondary School (2023)
 
 ---
 
