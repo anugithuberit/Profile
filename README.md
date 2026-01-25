@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋, I'm Petchiammal Murugan</h1>
-<h3 align="center">Frontend Developer | CSE Student | Passionate Web Creator</h3>
+<img align="left" width="180" src="https://raw.githubusercontent.com/anugithuberit/anugithuberit/main/profile.jpg" />
+
+<h1>Hi 👋, I'm Petchiammal Murugan</h1>
+<h3>Frontend Developer | Computer Science Engineering Student</h3>
+
+<br/>
+<br/>
 
 ---
 
 ## 👋 Hey there! I'm Petchiammal
 
-I’m a **Computer Science Engineering student (2027)** with a strong interest in **Frontend Web Development**.  
-I love building **responsive, user-friendly web applications** and turning ideas into real projects.
+I’m a **Computer Science Engineering student (2027)** with a strong interest in  
+**Frontend Web Development** and building **responsive, user-friendly web applications**.
 
 - 🎓 B.E CSE @ Government College of Engineering, Tirunelveli  
 - 📊 CGPA: **8.36**  
-- 🌱 Currently improving **React & Full Stack skills**  
-- 💡 Interested in **Freelancing & real-world projects**
+- 🌱 Currently learning **React & modern frontend technologies**  
+- 💡 Interested in **freelancing & real-world projects**
 
 ---
 
@@ -32,7 +37,7 @@ I love building **responsive, user-friendly web applications** and turning ideas
 - Develop UI using **React & Tailwind CSS**
 - Implement **authentication & form validation**
 - Deploy projects using **Netlify & GitHub Pages**
-- Practice **clean code & GitHub version control**
+- Use **Git & GitHub** for version control
 
 ---
 
@@ -55,28 +60,29 @@ Git & GitHub | Responsive Design | Netlify | Replit | VS Code
 
 ## 🚀 Projects I'm Proud Of
 
-### 🔐 Login Authentication System (Mini Project)
-- Secure user registration & login system  
-- Form validation & password verification  
-- Firebase-based authentication  
-- Deployed using GitHub Pages  
+### 🛒 E-Commerce Website – **GizmoGalaxy** (Main Project)
+- Designed and developed a **responsive e-commerce website**
+- Implemented product listing and smooth navigation
+- Optimized UI for both **desktop & mobile devices**
+- Deployed using **Netlify**
 
 🔗 Live Demo:  
-👉 https://anugithuberit.github.io/login-authentication  
+👉 https://gizmo-galaxy.netlify.app/
 
-**Tech Stack:** HTML5, CSS3, JavaScript, Firebase
+**Tech Stack:** React.js, JavaScript, Tailwind CSS
 
 ---
 
-### 🛒 E-Commerce Website – GizmoGalaxy (Main Project)
-- Designed & developed a modern responsive e-commerce UI  
-- Product listing, navigation & mobile-friendly layout  
-- Hosted on Netlify  
+### 🔐 Login Authentication System (Mini Project)
+- Secure user registration & login functionality
+- Implemented form validation & password verification
+- Handled invalid credentials with proper error messages
+- Deployed using GitHub Pages
 
 🔗 Live Demo:  
-👉 https://gizmo-galaxy.netlify.app/  
+👉 https://anugithuberit.github.io/login-authentication
 
-**Tech Stack:** React.js, JavaScript, Tailwind CSS
+**Tech Stack:** HTML5, CSS3, JavaScript, Firebase
 
 ---
 
@@ -85,24 +91,24 @@ Git & GitHub | Responsive Design | Netlify | Replit | VS Code
 ### Internship Studio — Frontend Intern  
 **Dec 2025 – Jan 2026**
 
-- Built interactive UI components  
-- Practiced clean coding standards  
-- Used Git & GitHub for version control  
-- Worked with HTML, CSS & JavaScript  
+- Developed interactive UI components
+- Followed clean coding practices
+- Used Git & GitHub for collaboration
+- Worked with HTML, CSS & JavaScript
 
 ---
 
 ## 🏆 Achievements
 
-- 🥉 3rd Rank in School (X Examination – 91.15%)  
-- 💻 Solved **55+ problems on LeetCode**  
+- 🥉 3rd Rank in School (X Examination – 91.15%)
+- 💻 Solved **55+ problems on LeetCode**
 - 🧠 Participated in **Techquezt #26 – AI All Around Us** (National Level)
 
 ---
 
 ## 📜 Certifications
 
-- **TCS iON Career Edge – IT Primer**  
+- **TCS iON Career Edge – IT Primer**
 - **Programming in Java – NPTEL (IIT Kharagpur)**  
   Grade: **Elite** | Score: **82%**
 
@@ -110,18 +116,17 @@ Git & GitHub | Responsive Design | Netlify | Replit | VS Code
 
 ## 🌐 Coding & Tech Profiles
 
-- 💻 LeetCode: https://leetcode.com/u/6txoXMUqMv/  
-- 🧑‍💻 GitHub: https://github.com/anugithuberit  
-- 🧾 Freelancer: https://www.freelancer.in/hireme/petchiammalm1  
+- 💻 LeetCode: https://leetcode.com/u/6txoXMUqMv/
+- 🧑‍💻 GitHub: https://github.com/anugithuberit
+- 🧾 Freelancer: https://www.freelancer.in/hireme/petchiammalm1
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 📧 Email: petchiammal681@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/petchiammal-murugan  
-- 🌐 Portfolio: https://gizmo-galaxy.netlify.app/
+- 📧 Email: petchiammal681@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/petchiammal-murugan
 
 ---
 
-⭐ *Always open to learning, collaboration, and exciting opportunities!*
+⭐ *Always eager to learn, build, and grow as a frontend developer.*
