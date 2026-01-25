@@ -1,10 +1,14 @@
-<img align="left" width="180" src="https://avatars.githubusercontent.com/u/181657181?s=400&u=60246aa02db01f926be99c6fe09d3974a54d2a8b&v=4" />
+<img align="left" width="170" src="https://raw.githubusercontent.com/anugithuberit/anugithuberit/main/profile.jpg" />
 
-<h1>Hi 👋, I'm Petchiammal Murugan</h1>
-<h3>Frontend Developer | Computer Science Engineering Student</h3>
+<h1>PETCHIAMMAL MURUGAN</h1>
+<p><i>she/her</i></p>
+
+👋 Hi, I’m <b>Petchiammal Murugan</b>! 🎓 <b>3rd-year Computer Science student</b> exploring 
+<b>DSA, System Design, and Frontend Development</b>. 💻 Building cool projects!
 
 <br/>
 <br/>
+
 
 ---
 
