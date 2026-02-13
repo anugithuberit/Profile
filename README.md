@@ -20,7 +20,7 @@ I’m a **Computer Science Engineering student (2027)** with a strong interest i
 **Frontend Web Development** and building **responsive, user-friendly web applications**.
 
 - 🎓 B.E CSE @ Government College of Engineering, Tirunelveli  
-- 📊 CGPA: **8.36**  
+- 📊 CGPA: **8.45**  
 - 🌱 Currently learning **React & modern frontend technologies**  
 - 💡 Interested in **freelancing & real-world projects**
 
