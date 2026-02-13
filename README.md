@@ -123,7 +123,7 @@ Git & GitHub | Responsive Design | Netlify | Replit | VS Code
 ## 🌐 Coding & Tech Profiles
 
 - 💻 LeetCode: https://leetcode.com/u/6txoXMUqMv/
-- 🧑‍💻 GitHub: https://github.com/anugithuberit
+- 🧑‍💻 GitHub: https://github.com/anugithuberit/Profile.git
 - 🧾 Freelancer: https://www.freelancer.in/hireme/petchiammalm1
 
 ---
